@@ -26,7 +26,7 @@ for /l %%n in () do (
   )
 
   set "COMMAND=srcds !BASE_PARAMETERS! !GSLT_PARAMETERS! !MAP_PARAMETERS!"
-  echo COMMAND is: !COMMAND!
+  echo Command is !COMMAND!
   !COMMAND!
 
   cd ..\scripts

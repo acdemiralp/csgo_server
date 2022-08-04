@@ -13,7 +13,7 @@ A minimalist CS:GO server.
 - Run `scripts/run.bat` to launch the server and auto-update it between restarts.
 
 ### Modifying and Extending
-- The server consists of a few script and configuration files. Feel free to modify and extend them to your liking.
+- The server consists of a few simple script and configuration files. Feel free to modify and extend them to your liking.
 
 ### References
 - [Valve Developer Community: Steam Console Client](https://developer.valvesoftware.com/wiki/SteamCMD)
@@ -22,6 +22,7 @@ A minimalist CS:GO server.
 - [Valve Developer Community: CS:GO Workshop for Server Operators](https://developer.valvesoftware.com/wiki/CS:GO_Workshop_For_Server_Operators)
 - [Valve Developer Community: CS:GO Console Variables](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
 - [Valve Developer Community: CS:GO Game Modes](https://developer.valvesoftware.com/wiki/CS:GO_Game_Modes)
+- [Total CSGO: Commands List](https://totalcsgo.com/commands)
 
 ### Extras
 - [Counter Strike Nostalgia (CSN) Map Group: Remakes 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2844372206)
