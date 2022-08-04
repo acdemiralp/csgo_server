@@ -22,3 +22,6 @@ A minimalist CS:GO server.
 - [Valve Developer Community: CS:GO Workshop for Server Operators](https://developer.valvesoftware.com/wiki/CS:GO_Workshop_For_Server_Operators)
 - [Valve Developer Community: CS:GO Console Variables](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
 - [Valve Developer Community: CS:GO Game Modes](https://developer.valvesoftware.com/wiki/CS:GO_Game_Modes)
+
+### Extras
+- [Counter Strike Nostalgia (CSN) Map Group: Remakes 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2844372206)
